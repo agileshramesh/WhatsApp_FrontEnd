@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:ffTransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations" 
+             xmlns:ff="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="WhatsApp.Views.CameraView"
+             Icon="camera.png">
+    <ContentPage.Content>
+        <StackLayout>
+            <ff:CachedImage
+                x:Name="image"
+                HeightRequest="100"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                WidthRequest="100">
+                <ff:CachedImage.Transformations>
+                    <ffTransformations:CornersTransformation />
+                </ff:CachedImage.Transformations>
+            </ff:CachedImage>
+
+            <Button
+                Clicked="Button_Clicked"
+                HorizontalOptions="Center"
+                Text="Camera"
+                VerticalOptions="End" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
