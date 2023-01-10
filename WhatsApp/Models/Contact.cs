@@ -7,7 +7,7 @@ namespace WhatsApp.Models
     /// <summary>
     /// WhastSapp Contact lass.
     /// ChatMetaData is the last message, date, ... with the currrent contact.
-    /// </summary>
+   
     public class Contact
     {
         public long ContactID { get; set; }

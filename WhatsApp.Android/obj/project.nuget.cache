@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nYyf9D52otdf2H7hSpMI10VrQxLDCxdkVqckLNz4YkeoJzp7V8T/66SAf1N3ECaGHjqutpFZrWpnr2NPrWQ38w==",
+  "dgSpecHash": "/CnLv5W06PROnCH5FOcE0S6Rrv0j7R/gQjisPE5zpNWQ2C2nu+r6TYcBirUIzWjHIUXS5BpLPMAXIkkrYqKLwg==",
   "success": true,
-  "projectFilePath": "D:\\New folder\\WhatsApp\\WhatsApp.Android\\WhatsApp.Android.csproj",
+  "projectFilePath": "D:\\PROJECTS_1\\WhatsApp_FrontEnd\\WhatsApp.Android\\WhatsApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agile\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\Agile\\.nuget\\packages\\plugin.currentactivity\\2.1.0.4\\plugin.currentactivity.2.1.0.4.nupkg.sha512",

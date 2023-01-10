@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z+GFcRLkgIfC8TvYvlhPNs9LK1mdmIiCayX2YflLulCuUUe3++TSaZT25phjSInjiuAEkojoEpOIku76rmTrlQ==",
+  "dgSpecHash": "cdRzht5xiznV67HdrF7UFqUuZd0D5vh1MM0YFIQ/3nENL67yOj+nTIUg4GVypspz6pnntf7VRnvr3fRaJGzPZA==",
   "success": true,
-  "projectFilePath": "D:\\New folder\\WhatsApp\\WhatsApp.iOS\\WhatsApp.iOS.csproj",
+  "projectFilePath": "D:\\PROJECTS_1\\WhatsApp_FrontEnd\\WhatsApp.iOS\\WhatsApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agile\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\Agile\\.nuget\\packages\\rg.plugins.popup\\2.1.0\\rg.plugins.popup.2.1.0.nupkg.sha512",

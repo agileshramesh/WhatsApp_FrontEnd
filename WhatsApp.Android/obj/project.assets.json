@@ -3616,20 +3616,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Agile\\.nuget\\packages\\": {}
+    "C:\\Users\\Agile\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\WhatsApp\\WhatsApp.Android\\WhatsApp.Android.csproj",
+      "projectUniqueName": "D:\\PROJECTS_1\\WhatsApp_FrontEnd\\WhatsApp.Android\\WhatsApp.Android.csproj",
       "projectName": "WhatsApp.Android",
-      "projectPath": "D:\\New folder\\WhatsApp\\WhatsApp.Android\\WhatsApp.Android.csproj",
+      "projectPath": "D:\\PROJECTS_1\\WhatsApp_FrontEnd\\WhatsApp.Android\\WhatsApp.Android.csproj",
       "packagesPath": "C:\\Users\\Agile\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\WhatsApp\\WhatsApp.Android\\obj\\",
+      "outputPath": "D:\\PROJECTS_1\\WhatsApp_FrontEnd\\WhatsApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Agile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3642,8 +3647,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "D:\\New folder\\WhatsApp\\WhatsApp\\WhatsApp.csproj": {
-              "projectPath": "D:\\New folder\\WhatsApp\\WhatsApp\\WhatsApp.csproj"
+            "D:\\PROJECTS_1\\WhatsApp_FrontEnd\\WhatsApp\\WhatsApp.csproj": {
+              "projectPath": "D:\\PROJECTS_1\\WhatsApp_FrontEnd\\WhatsApp\\WhatsApp.csproj"
             }
           }
         }
