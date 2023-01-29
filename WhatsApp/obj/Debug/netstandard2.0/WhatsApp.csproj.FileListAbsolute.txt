@@ -25,3 +25,30 @@ D:\New folder\WhatsApp\WhatsApp\obj\Debug\netstandard2.0\refint\WhatsApp.dll
 D:\New folder\WhatsApp\WhatsApp\obj\Debug\netstandard2.0\WhatsApp.pdb
 D:\New folder\WhatsApp\WhatsApp\obj\Debug\netstandard2.0\ref\WhatsApp.dll
 D:\New folder\WhatsApp\WhatsApp\obj\Debug\netstandard2.0\Controls\FloatingActionButton.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\bin\Debug\netstandard2.0\WhatsApp.deps.json
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\bin\Debug\netstandard2.0\WhatsApp.dll
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\bin\Debug\netstandard2.0\WhatsApp.pdb
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\WhatsApp.csproj.AssemblyReference.cache
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\WhatsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Controls\FloatingActionButton.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\PopupPages\ChatProfileSelectionPopupView.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\CallsView.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\CameraView.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\ChatsView.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\StatusDetailView.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\StatusView.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\Templates\CallsViewTemplate.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\Templates\ChatsViewTemplate.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\Templates\CustomNavigationView.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\Views\Templates\StatusViewTemplate.xaml.g.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\WhatsApp.AssemblyInfoInputs.cache
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\WhatsApp.AssemblyInfo.cs
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\WhatsApp.csproj.CoreCompileInputs.cache
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\WhatsApp.dll
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\refint\WhatsApp.dll
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\WhatsApp.pdb
+D:\PROJECTS_1\WhatsApp_FrontEnd\WhatsApp\obj\Debug\netstandard2.0\ref\WhatsApp.dll
